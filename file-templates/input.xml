@@ -1,0 +1,6 @@
+<sets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="main" xsi:noNamespaceSchemaLocation="http://apifortress.com/app/input.xsd">
+	<global>
+	</global>
+	<set name="default">
+	</set>
+</sets>
