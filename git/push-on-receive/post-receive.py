@@ -4,7 +4,6 @@ import fileinput
 import subprocess
 import json
 import configuration
-import ssl
 
 try:
     from urllib.request import Request, urlopen  # Python 3
