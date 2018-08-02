@@ -11,5 +11,5 @@ according to the users' needs.
 
 ## Configuration
 * `test_subdirectory`: where the API Fortress tests are stored in the repository
-* `default_hook`: a catch-all API hook to push the tests to
-* `hooks_by_branch`: a collection of branches to push the tests to, based on the branch
+* `default_hook`: a catch-all API hook to push the tests to. Change URL and headers according to your settings.
+* `hooks_by_branch`: a collection of branches to push the tests to, based on the branch. Change URLs and headers according to your settings.
